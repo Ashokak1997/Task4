@@ -1,0 +1,53 @@
+.BestSeller-head {
+    margin-top: 56px;
+
+}
+
+.BestSeller-head .BestSeller-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.BestSeller-head .BestSeller-body button {
+    width: 200px;
+    height: 63px;
+    background: #01572E;
+    color: white;
+    box-shadow: 4px 0px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+
+.list-group-item {
+    text-align: center;
+    position: relative;
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #212529;
+    text-decoration: none;
+    background-color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    border: none !important;
+}
+
+.list-group-item i:nth-child(1) {
+    color: #FFC700;
+}
+
+.list-group-item i:nth-child(2) {
+    color: #00AEEF;
+    font-size: 12px;
+}
+
+.card-btn button {
+    width: 100%;
+    border: 1px solid #BA2026;
+    color: #BA2026;
+}
+
+.card img {
+    width: 250px;
+    height: 292px;
+}

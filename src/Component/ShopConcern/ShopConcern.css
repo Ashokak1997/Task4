@@ -1,0 +1,36 @@
+.shop-head .shop-body h4 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.shop-head {
+    text-align: center;
+}
+
+.btn-group {
+    width: 50%;
+    background: #F4F4F4;
+    border-radius: 50px;
+}
+
+.btn-secondary {
+    color: #000000;
+    background: #F4F4F4;
+    border-radius: 50px;
+}
+
+.btn-secondary:hover {
+    background: #01572E;
+    box-shadow: 4px 0px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+
+.shop-img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: auto;
+}

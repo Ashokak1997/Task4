@@ -1,0 +1,28 @@
+.brands h4 {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.brands-col {
+    text-align: center;
+}
+
+.brands-col p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.brands {
+    margin: 40px 0px
+}
+
+.brands .row {
+    margin: auto;
+}
